@@ -17,17 +17,6 @@ My humble reading list:
 - [Computer Networking: a Top Down Approach](https://gaia.cs.umass.edu/kurose_ross/index.php)
 - [Database Internals: A Deep Dive into How Distributed Data Systems Work by Alex Petrov](https://www.databass.dev/)  
 
-Practice Resources:
-- **[Hexlet](https://ru.hexlet.io/u/shortyk)**
-- **[Codewars](https://www.codewars.com/users/shortyk_tw)**
-- **[Leetcode](https://leetcode.com/u/shortyk/)**
-
-### 📚 Study Goals:
-
-- **System Design & Architecture**
-  - Microservices architecture deep dive
-  - Database scaling strategies
-
 ### 📬 Contact Info
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shortykofficial@gmail.com)
